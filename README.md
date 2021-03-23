@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to MoonDD's GitHub👋
+#### My Velog is https://velog.io/@moon_dd
 <!--
 **MoonDD99/MoonDD99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
